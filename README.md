@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @azaX69
-- 👀 I’m interested in coding , programming .
-- 🌱 I’m currently learning python along with cloud computing.
-- 💞️ I’m looking to collaborate on python , API etc.
+- 👀 I love programming .
+- 🌱 I’m currently learning python, fullstack web development, flask, docker, API .
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me ...
 
 <!---
